@@ -1,9 +1,8 @@
-function changeImg(){
-    let image = document.getElementById('sea');
-image.src="1.jpg";
+function changeImg() {
+    let imageChange = document.getElementById('sea');
+    imageChange.src="2.jpg";
 }
 
-function changeImg2(){
-    let image = document.getElementById('sea');
-image.src="sea.jpeg";
-}
+function changeImg2() {
+    let imageChange = document.getElementById('sea');
+    imageChange.src="sea.jpeg"}
